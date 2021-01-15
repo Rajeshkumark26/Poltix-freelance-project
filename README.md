@@ -4,7 +4,7 @@
 
 
 ## Step : 1 Invert the Images 
-![Output avi gif](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/cv_inverted.png)
+![Output avi gif](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/cv_inverted.png=250x250)
 
 ## step : 2 Detect Horizontal edges
 ![Output avi gif](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/img_vh.jpg)
