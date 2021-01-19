@@ -13,6 +13,8 @@
 <img src="https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/vertical.png" width="200" height="200">
 
 ## step : 3 Detect Boxes and detect contents using Tesseract OCR 
+<img src="https://github.com/Rajeshkumark26/Poltix-freelance-project/blob/main/output.jpg" width="200" height="200">
+
 ## step : 4 Convert to dataframe 
 
 
