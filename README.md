@@ -4,7 +4,7 @@
 
 
 ## Step : 1 Invert the Images 
-
+<img src="https://github.com/Rajeshkumark26/Poltix-freelance-project/blob/main/output.jpg" width="200" height="200">
 
 ## step : 2 Detect Vertical edges
 <img src="https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/img_vh.jpg" width="200" height="200">
@@ -13,7 +13,7 @@
 <img src="https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/vertical.png" width="200" height="200">
 
 ## step : 3 Detect Boxes and detect contents using Tesseract OCR 
-<img src="https://github.com/Rajeshkumark26/Poltix-freelance-project/blob/main/output.jpg" width="200" height="200">
+
 
 ## step : 4 Convert to dataframe 
 
