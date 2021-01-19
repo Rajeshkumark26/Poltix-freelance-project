@@ -4,13 +4,13 @@
 
 
 ## Step : 1 Invert the Images 
-![](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/cv_inverted.png | width=100)
+
 
 ## step : 2 Detect Vertical edges
-![Output avi gif](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/img_vh.jpg)
+<img src="https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/img_vh.jpg" width="200" height="200">
 
 ## step : 3 Detect Horizontal edges 
-![Output avi gif](https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/vertical.png)
+<img src="https://github.com/Rajeshkumark26/Poltix_freelance/blob/main/output/vertical.png" width="200" height="200">
 
 ## step : 3 Detect Boxes and detect contents using Tesseract OCR 
 ## step : 4 Convert to dataframe 
